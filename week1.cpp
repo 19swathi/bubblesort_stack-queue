@@ -1,5 +1,4 @@
 #include <iostream>
-//This allows the usage of functions like cout and cin for console I/O
 using namespace std;
 
 int main()
