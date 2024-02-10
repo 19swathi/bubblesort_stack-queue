@@ -1,4 +1,5 @@
 #include <iostream> 
+// This allows the usage of functions like cout and cin for console I/O
 #include <stack>
 using namespace std;
 

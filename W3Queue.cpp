@@ -1,6 +1,7 @@
 // C++ code to illustrate Queue in 
 // Standard Template Library (STL)
 #include <iostream>
+// This allows the usage of functions like cout and cin for console I/O
 #include <queue>
 
 using namespace std;
